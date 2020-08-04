@@ -1,0 +1,63 @@
+.navbar{
+border-bottom: 0.2rem solid #66a0ff; 
+}
+
+#socialProfiles{
+    background: 
+    linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      ), 
+   url("imgs/home.jpg");
+   height: 30rem;
+}
+
+span{
+    display: block;
+    font-size:2.5rem;
+    text-align: end;
+    color: white;
+}
+
+h2{
+    color:white;
+}
+
+p{
+    color: white;
+}
+
+/* .card{
+    width:70%;
+} */
+
+.btn-primary{
+    color:white;
+    border-color:white;
+}
+
+.explore{
+    color:black;
+}
+
+.exploreText{
+    color:black;
+    font-size:15px;
+}
+
+#exploreSection{
+    background:grey;
+}
+
+.img-fluid{
+    border-radius:120%;
+}
+
+.create{
+
+}
+/* #explore-section{
+    margin-top:2%;
+} */
+/* write media query to make the form be smaller on larger screens*/
+

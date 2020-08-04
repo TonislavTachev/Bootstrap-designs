@@ -1,0 +1,24 @@
+.fa-cog {
+  font-size: 2rem;
+  padding-right: .25rem; }
+
+.fa-pen {
+  font-size: 3rem; }
+
+h3 {
+  font-size: 3rem;
+  font-weight: 100; }
+
+.card {
+  height: 30%;
+  margin-bottom: 0.5rem; }
+
+#posts .fa-pen {
+  font-size: 2rem;
+  padding-right: 1rem; }
+
+table {
+  border: 1px solid lightgray !important;
+  border-color: black !important; }
+
+/*# sourceMappingURL=style.css.map */

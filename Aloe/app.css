@@ -1,0 +1,57 @@
+.navbar{
+    height:7rem;
+    padding:3rem;
+    background-color:#FEC400 !important;
+    
+}
+
+.navbar-brand{
+ height:9rem;
+ width:9rem;
+ margin-top: -1rem;
+}
+.nav-link{
+    color:#fff !important;
+    font-size:1rem;
+}
+
+.carousel-item {
+    height: 450px; 
+}
+  
+  .carousel-item-1 {
+    background: url("https://i.vimeocdn.com/video/762278392.webp?mw=1700&mh=955&q=70");
+    background-size: cover; }
+  
+  .carousel-item-2 {
+    background: url("http://www.flp.bg/Images/Prod0-1.jpg");
+    background-size: cover; 
+    background-position:bottom;
+}
+  
+  .carousel-item-3 {
+    background: url("https://i.vimeocdn.com/video/762278392.webp?mw=1700&mh=955&q=70");
+    background-size: cover; 
+    background-position:top;
+}
+
+.carousel-caption{
+    color:#FEC400;
+}
+
+#about-img{
+    margin-left:10rem;
+}
+
+h3{
+   color:#FEC400;
+}
+
+.card{
+  width:21rem;
+  padding:1rem;
+  margin-right:10px;
+}
+.card img{
+  height:400px;
+}
